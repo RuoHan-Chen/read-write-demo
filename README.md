@@ -69,9 +69,9 @@ npm run dev
 ## Development
 
 The project uses:
-- `viem` for Ethereum interactions
-- `@tanstack/react-query` for data fetching
-- `wagmi` for wallet connection management
+- `viem` for Ethereum interactions and wallet connection
+- `Next.js` for the React framework
+- `TypeScript` for type safety
 
 ## License
 
